@@ -6,6 +6,8 @@ three-level hierarchy of simplex maps and four dimensions of invariance.
 
 Lean4 verifiaction done for finite X, not done for infinite uncountable X due to time constraints.
 
+Do note that LLMs were used in the formalization of this paper. 
+
 ## What's here
 
 | | |
