@@ -1,0 +1,14 @@
+# Lean build artifacts
+*.olean
+*.ilean
+lake-packages/
+.lean/
+# OS
+.DS_Store
+Thumbs.db
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.lake
